@@ -1,0 +1,10 @@
+# Tell GitHub Linguist to treat KiCad files as "Text"
+*.kicad_sch linguist-language=Text
+*.kicad_pcb linguist-language=Text
+*.kicad_pro linguist-language=Text
+*.kicad_sym linguist-language=Text
+*.kicad_mod linguist-language=Text
+*.pretty linguist-language=Text
+*.net linguist-language=Text
+*.cmp linguist-language=Text
+
